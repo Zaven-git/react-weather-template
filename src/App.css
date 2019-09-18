@@ -1,0 +1,17 @@
+body {
+    font-family:'Kaushan Script', cursive;
+}
+
+#main{
+    height: 110vh;
+    background-image: url(./img/weather.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+    text-align: center;
+}
+

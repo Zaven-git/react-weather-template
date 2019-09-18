@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+input {
+    background-color:indigo;
+    padding:10px 70px;
+    margin:10px;
+    border:none;
+    border-bottom: 1px solid blue;
+}
+button{
+    margin:10px;
+}
